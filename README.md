@@ -8,7 +8,7 @@ This is a repository for Fullstack Trello Clone: Next.js 14, Server Actions, Rea
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-trello.git
+git clone https://github.com/hudsonferraz/taskify.git
 ```
 
 ### Install packages
