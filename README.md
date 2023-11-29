@@ -1,5 +1,6 @@
 ## You can see this project running live [here](https://hudson-taskify.vercel.app/).
-This is a repository for Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL
+This is a repository for Fullstack Trello Clone: Next.js 14, Server Actions, React, Prisma, Stripe, Tailwind, MySQL.
+To became PRO use the dummy credit card number 4242 4242 4242 4242.
 
 ### Prerequisites
 
